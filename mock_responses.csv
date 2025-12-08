@@ -1,0 +1,13 @@
+topic,topic_category,mock_response
+email summarization,Communication,Here is a concise summary highlighting the main points of the email.
+email summarization,Communication,The email covers several key updates and action items for the team.
+customer support,Support,Thank you for reaching out! Here's how to resolve your issue.
+customer support,Support,We apologize for the inconvenience. Please follow these steps to fix it.
+math word problems,Education,"To solve this problem, identify the variables and calculate step by step."
+math word problems,Education,"The sum of the numbers is calculated as follows, leading to the correct answer."
+travel planning,Leisure,You can visit the main attractions over three days as follows.
+travel planning,Leisure,Here is a recommended itinerary for your trip that maximizes sightseeing.
+coding assistance,Programming,Here’s a code snippet that solves the problem efficiently.
+coding assistance,Programming,Make sure to import the required libraries before running this script.
+creative writing,Art,"Once upon a time, in a small village, a young girl discovered a secret."
+creative writing,Art,The story begins on a stormy night with a mysterious letter arriving unexpectedly.
